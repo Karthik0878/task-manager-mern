@@ -57,7 +57,3 @@ Just open `frontend/index.html` in your browser after the backend is running.
 - `POST /api/tasks` {title} (Auth)
 - `PATCH /api/tasks/:id` {title?, completed?} (Auth)
 - `DELETE /api/tasks/:id` (Auth)
-
-## Notes
-- Keep it simple for the interview; later you can swap the frontend to Vite/CRA.
-- Add screenshots and pin this repo on your GitHub profile.
